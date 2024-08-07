@@ -3,10 +3,9 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"main/internal/password"
 	"os"
 	"strings"
-
-	"github.com/VioletaNaboy/hw12/internal/password"
 )
 
 func main() {
